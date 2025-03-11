@@ -34,7 +34,7 @@ namespace TimeTableApplication.Service
                 timetable.Add(column);
             }
 
-            return timetable; // Directly returning the List<List<string>>
+            return timetable; 
         }
     }
 }
