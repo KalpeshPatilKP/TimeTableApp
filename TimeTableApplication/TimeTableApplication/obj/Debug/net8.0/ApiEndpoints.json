@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TimeTableApplication.Controllers.TimetableController",
+    "Method": "GenerateTimeTable",
+    "RelativePath": "api/Timetable/generate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "TimeTableApplication.Model.TimeTableInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
